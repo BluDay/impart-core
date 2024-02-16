@@ -1,5 +1,3 @@
-# impart
+# impart-core
 
-Multi-purpose chat program.
-
-Core process for clients.
+Core process for Impart.
